@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+jackpurrin!;Aspiring+Web+Developer)](https://git.io/typing-svg)
+
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
