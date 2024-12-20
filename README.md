@@ -2,8 +2,6 @@
 
 #### What's up? 🤨
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Web+Developer;Check+out+my+website+at;https://jackpurrin.me/)](https://git.io/typing-svg)
 
 ## My stats
@@ -22,4 +20,4 @@
 
 ## Spotify
 
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
