@@ -2,7 +2,7 @@
 
 ## My stats
 
-https://count.getloli.com/@jackpurrin?name=jackpurrin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+![](https://count.getloli.com/@jackpurrin?name=jackpurrin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
