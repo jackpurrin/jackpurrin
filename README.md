@@ -1,5 +1,7 @@
 # Hi, I'm jackpurrin! 👋
 
+#### What's up? 🤨
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Web+Developer;Check+out+my+website+at;https://jackpurrin.me/)](https://git.io/typing-svg)
 
 ## My stats
