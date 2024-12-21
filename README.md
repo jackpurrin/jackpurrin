@@ -27,18 +27,18 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nginx-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/protonmail-dark.svg" width="50"></a>
 
-
 ### Hit count
 
 ![](https://count.getloli.com/@jackpurrin?name=jackpurrin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ### Compact stats
 
-[![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Detailed stats
-[![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Spotify
 
