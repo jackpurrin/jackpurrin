@@ -2,7 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+jackpurrin!+👋;Aspiring+Web+Developer;Check+out+my+website+at;https://jackpurrin.me/)](https://git.io/typing-svg)
 
-## My stats
+🧑‍💻 I am an aspiring web developer  
+
+🏫 I'm a high school student, freshman  
+
+📅 I have too much free time, and am looking for projects to do  
+
+🤓 I am learning Vue.JS, and Tailwind CSS  
+
+🐍 Learning Python on the side   
+
+🐧 I use Arch Linux, btw.  
+
+## My skills / What I use
+
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cloudflare.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/archlinux-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nginx-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/protonmail-dark.svg" width="50"></a>
+
 
 ### Hit count
 
