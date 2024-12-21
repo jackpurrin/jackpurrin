@@ -27,6 +27,8 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nginx-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/protonmail-dark.svg" width="50"></a>
 
+# Stats
+
 ### Hit count
 
 ![](https://count.getloli.com/@jackpurrin?name=jackpurrin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
@@ -38,6 +40,10 @@
 ### Github Score
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jackpurrin)](https://github.com/LordDashMe/github-contribution-stats/)
+
+### Commit Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jackpurrin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Detailed stats
 
