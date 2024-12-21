@@ -35,6 +35,10 @@
 
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### Github Score
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jackpurrin)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ### Detailed stats
 
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
