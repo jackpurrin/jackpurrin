@@ -6,9 +6,9 @@
 
 🏫 I'm a high school student, freshman  
 
-📅 I have too much free time, and am looking for projects to do  
+📅 I have too much free time and am looking for projects to do  
 
-🤓 I am learning Vue.JS, and Tailwind CSS  
+🤓 I am learning Java, and working on my website
 
 🐍 Learning Python on the side   
 
