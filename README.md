@@ -8,10 +8,6 @@
 
 📅 I have too much free time and am looking for projects to do  
 
-🤓 I am learning Java, and working on my website
-
-🐍 Learning Python on the side   
-
 🐧 I use Arch Linux, btw.  
 
 ## My skills / What I use
