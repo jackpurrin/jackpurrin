@@ -1,8 +1,8 @@
 # What's up? 🤨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+jackpurrin!+👋;Aspiring+Web+Developer;Check+out+my+website+at;https://jackpurrin.me/)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+jackpurrin!+👋;Aspiring+Offensive+Security+Engineer;Check+out+my+website+at;https://jackpurrin.me/)](https://git.io/typing-svg)
 
-🧑‍💻 I am an aspiring web developer  
+🧑‍💻 I am an aspiring offensive security engineer
 
 🏫 I'm a high school student, freshman  
 
