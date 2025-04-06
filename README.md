@@ -8,7 +8,7 @@
 
 📅 I have too much free time and am looking for projects to do  
 
-📝 Avaid [logseq](logseq.com) user!
+📝 Avid [logseq](logseq.com) user!
 
 🐧 I use Arch and Mac OS
 
