@@ -4,11 +4,13 @@
 
 🧑‍💻 I am an aspiring offensive security engineer
 
-🏫 I'm a high school student, freshman  
+🏫 I'm a high school student, sophomore in a couple weeks
 
 📅 I have too much free time and am looking for projects to do  
 
-🐧 I use Arch Linux, btw.  
+📝 Avaid [logseq](logseq.com) user!
+
+🐧 I use Arch and Mac OS
 
 # Stats
 
