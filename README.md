@@ -26,7 +26,7 @@
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/rose_pine/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/rose_pine/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/rose_pine/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jackpurrin/jackpurrin/master/profile-summary-card-output/rose_pine/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jackpurrin&theme=rose-pine)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jackpurrin&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Spotify
 
