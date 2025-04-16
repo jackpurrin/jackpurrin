@@ -12,6 +12,8 @@
 
 🐧 I use Arch and Mac OS
 
+🎵 I'm working on some music production
+
 # Stats
 
 ### Hit count
