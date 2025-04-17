@@ -10,6 +10,8 @@
 
 📝 Avid [logseq](logseq.com) user!
 
+💵 PAY ME $100 AND I WILL MAKE MY LOGSEQ REPO PUBLIC
+
 🐧 I use Arch and Mac OS
 
 🎵 I'm working on some music production
