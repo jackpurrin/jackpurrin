@@ -8,7 +8,7 @@
 
 📅 I have too much free time and am looking for projects to do  
 
-📝 Avid [logseq](logseq.com) user!
+📝 Avid [logseq](https://logseq.com) user!
 
 💵 PAY ME $100 AND I WILL MAKE MY LOGSEQ REPO PUBLIC
 
