@@ -14,7 +14,7 @@
 
 🐧 I use Arch and Mac OS
 
-🎵 I'm working on some music production
+🎵 I can't stop listening to `Mac DeMarco`. He's the reason why i'm learning the guitar.
 
 # Stats
 
