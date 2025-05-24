@@ -2,13 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+jackpurrin!+👋;Check+out+my+website+at;https://jackpurrin.me/)](https://jackpurrin.me/)
 
-🧑‍💻 honestly, i don't know what i am going to do for a living.
+🧑‍💻 honestly, i don't know what i am going to do for a living
 
-🏫 enrolled in highschool, currently a sophomore.
+🏫 enrolled in highschool, currently a sophomore
+
+🎓 after high school, enrolling in ASU
 
 📅 well it's the summer, i've got so much free time. msg me about some web dev projects to work on!
 
-📝 i love [logseq](https://logseq.com) !
+📝 i love [logseq](https://logseq.com)
 
 🐧 avid linux user, arch linux lover, mint user :/
 
