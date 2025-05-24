@@ -1,20 +1,18 @@
 # What's up? 🤨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+jackpurrin!+👋;Aspiring+Offensive+Security+Engineer;Check+out+my+website+at;https://jackpurrin.me/)](https://jackpurrin.me/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+jackpurrin!+👋;Check+out+my+website+at;https://jackpurrin.me/)](https://jackpurrin.me/)
 
-🧑‍💻 I am an aspiring offensive security engineer
+🧑‍💻 honestly, i don't know what i am going to do for a living.
 
-🏫 I'm a high school student, sophomore in a couple weeks
+🏫 enrolled in highschool, currently a sophomore.
 
-📅 I have too much free time and am looking for projects to do  
+📅 well it's the summer, i've got so much free time. msg me about some web dev projects to work on!
 
-📝 Avid [logseq](https://logseq.com) user!
+📝 i love [logseq](https://logseq.com) !
 
-💵 PAY ME $100 AND I WILL MAKE MY LOGSEQ REPO PUBLIC
+🐧 avid linux user, arch linux lover, mint user :/
 
-🐧 I use Arch and Mac OS
-
-🎵 I can't stop listening to `Mac DeMarco`. He's the reason why i'm learning the guitar.
+🎵 nujabes hits so hard!!!
 
 # Stats
 
