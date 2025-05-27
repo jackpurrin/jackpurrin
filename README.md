@@ -12,7 +12,7 @@
 
 📝 i love [logseq](https://logseq.com)
 
-🐧 avid linux user, arch linux lover, mint user :/
+🐧 average linux user, arch linux lover, mint user :/
 
 🎵 nujabes hits so hard!!!
 
