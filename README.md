@@ -1,5 +1,12 @@
 # haiii :3
 
+> [!CAUTION]
+> hey! i'm taking a break for a long time since i've gotten kinda busy in real life.
+> 
+> i've also gotten burnt out from working on my projects, so it's best to take a break to prevent more stress than i already have.
+>
+> thanks for checking my profile out! you can still contact me if you need to at jackpurrin@proton.me
+
 🌐 you should check out my website @ [jackpurrin.me](https://jackpurrin.me)
 
 🧑‍💻 working on coding, gonna do cybersecurity for a living
