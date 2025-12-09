@@ -1,6 +1,6 @@
 # haiii :3
 
-🌐 you should check out my website @ [jackpurrin.me](https://jackpurrin.me)
+🌐 you should check out my website @ [jackpurrin.moe](https://jackpurrin.moe)
 
 🧑‍💻 working on coding, gonna do cybersecurity for a living
 
