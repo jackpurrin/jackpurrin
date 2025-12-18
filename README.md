@@ -1,7 +1,5 @@
 # haiii :3
 
-## i now host my code @ [git.jackpurrin.moe](https://git.jackpurrin.moe/autumn)
-
 🌐 you should check out my website @ [jackpurrin.moe](https://jackpurrin.moe)
 
 🧑‍💻 working on coding, gonna do cybersecurity for a living
