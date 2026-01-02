@@ -1,5 +1,9 @@
 # hey :3
 
+> ![WARNING]
+> all my repos are archived for a reason!
+> they're out on git.gay!
+
 💖 my name is *jack*, i go by *autumn* online.
 
 🏫 high school sophomore
